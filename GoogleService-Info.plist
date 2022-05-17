@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>887626258499-prq96ddr1b3e0j47vtplljijs56270dv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.887626258499-prq96ddr1b3e0j47vtplljijs56270dv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBHJBMQJLZFRn7PMpyBMqKZNprmCiyqFLo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>887626258499</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>host.exp.exponent</string>
+	<key>PROJECT_ID</key>
+	<string>ozwierzsie</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ozwierzsie.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:887626258499:ios:07e4176d7edd64fdc8dcf6</string>
+</dict>
+</plist>
